@@ -1,0 +1,6 @@
+rootProject.name = 'multi-project'
+
+include 'multi-library'
+include 'multi-api'
+include 'multi-web'
+
